@@ -1,1 +1,1 @@
-# Minimal green openbox theme
+# Minimal openbox theme for sweet mars
